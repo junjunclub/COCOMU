@@ -1,0 +1,1 @@
+print(f"similar_movies = [\"movietitle_1\", \"movietitle_2\", \"movietitle_3\", \"movietitle_4\", \"movietitle_5\"]")
